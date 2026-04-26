@@ -14,6 +14,8 @@ if (!$car) die("❌ Erreur : Véhicule introuvable");
 $erreur = '';
 $success = '';
 
+
+// update final
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $nom = trim($_POST['nom'] ?? '');
     $email = trim($_POST['email'] ?? '');

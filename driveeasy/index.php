@@ -22,7 +22,7 @@
 
 <section class="hero">
     <div class="hero-content">
-        <!-- update final -->
+
 
         <h1>Location de voiture<br><span>simple & premium</span></h1>
         <p>Trouvez votre véhicule en quelques secondes, partout en Europe</p>
