@@ -14,13 +14,11 @@ Installation
 1. Cloner le dépôt :
 git clone https://github.com/assitan001/driveeasy
 
-Code
 2. Importer la base de données `driveeasy.sql` dans phpMyAdmin  
 3. Lancer Apache et MySQL dans XAMPP  
 4. Ouvrir le projet dans le navigateur :
 http://localhost/driveeasy/
 
-Code
 
 Membres du groupe
 - Assitan — Base de données (SQL), connexion PHP, logique backend  
