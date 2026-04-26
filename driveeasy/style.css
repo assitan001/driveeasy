@@ -90,6 +90,8 @@ body {
     position: relative;
 }
 
+/* update style 1 */
+
 .hero-content h1 {
     font-size: clamp(32px, 8vw, 56px);
     margin-bottom: 20px;
