@@ -14,6 +14,7 @@ if (!$car) die("❌ Erreur : Véhicule introuvable");
 <!DOCTYPE html>
 <html lang="fr">
 <head>
+<!--caractère spéciaux-->
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title><?= htmlspecialchars($car['marque'] . ' ' . $car['modele']) ?> - Driveeazy</title>
@@ -22,7 +23,7 @@ if (!$car) die("❌ Erreur : Véhicule introuvable");
 
 <body>
 
-<!-- HEADER -->
+<!-- ORGA HEADER -->
 <header class="header">
     <div class="nav-container">
         <a href="index.php" class="logo">Driveeazy</a>

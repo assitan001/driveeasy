@@ -40,6 +40,7 @@
 
     <div class="section-header">
         <h2>Nos véhicules</h2>
+    
         <p>Des modèles sélectionnés pour leur confort et leur élégance</p>
     </div>
 

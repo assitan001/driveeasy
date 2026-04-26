@@ -10,7 +10,7 @@ $car = $stmt->fetch();
 
 if (!$car) die("❌ Erreur : Véhicule introuvable");
 
-// Traiter la soumission du formulaire
+// traiter la soumission du formulaire
 $erreur = '';
 $success = '';
 
